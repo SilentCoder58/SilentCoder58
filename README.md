@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @SilentCoder58
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👋 Hi, I’m @Effan bin Shafi 
+🚀 DevOps Engineer | Cloud Architect | Automation Specialist  
 
-<!---
-SilentCoder58/SilentCoder58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 I’m interested in...  
+- Cloud Infrastructure & Automation (AWS, Azure, GCP)  
+- CI/CD Pipelines & DevOps Practices  
+- Infrastructure as Code (Terraform, Ansible)  
+- Containerization (Docker) & Orchestration (Kubernetes)  
+- Site Reliability Engineering (SRE) & Monitoring  
+
+## 🌱 I’m currently learning...  
+- Advanced Kubernetes & Helm  
+- Serverless Architectures & Lambda  
+- GitOps & ArgoCD  
+- Advanced DevOps tools for monitoring and logging  
+
+## 💞️ I’m looking to collaborate on...  
+- Automating cloud infrastructure and deployments  
+- Building scalable, resilient cloud environments  
+- Contributing to open-source DevOps projects  
+
+## ⚡ Fun fact:  
+I can deploy a new application stack before you can finish reading this sentence! 🚀😎 
